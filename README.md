@@ -1,4 +1,3 @@
-Claro, aquí te proporciono una versión más detallada del libro, con explicaciones más extensas y ejercicios prácticos adicionales que permitan una comprensión más profunda de cada tema. También incluiré ejemplos de aplicaciones completas que los estudiantes puedan desarrollar a lo largo del curso.
 
 ---
 
