@@ -15,6 +15,7 @@
 4. [Capítulo 4: Diseño de Interfaz de Usuario (UI)](#capítulo-4-diseño-de-interfaz-de-usuario-ui)
 5. [Capítulo 5: Navegación en Aplicaciones Móviles](#capítulo-5-navegación-en-aplicaciones-móviles)
 6. [Capítulo 6: Manejo del Estado en Aplicaciones Móviles](#capítulo-6-manejo-del-estado-en-aplicaciones-móviles)
+- 6.1 [Examen de los capitulos](#primerparcial)
 7. [Capítulo 7: Manejo de Formularios y Validaciones](#capítulo-7-manejo-de-formularios-y-validaciones)
 8. [Capítulo 8: Consumo de APIs y Manejo de Datos Externos](#capítulo-8-consumo-de-apis-y-manejo-de-datos-externos)
 9. [Capítulo 9: Almacenamiento Local de Datos](#capítulo-9-almacenamiento-local-de-datos)
@@ -303,6 +304,264 @@ Crea una aplicación donde el usuario pueda incrementar y decrementar un contado
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 
+
+Aquí están los dos exámenes con las preguntas de opción múltiple y sus respuestas correctas:
+
+**Examen 1:**<a name="primerparcial"></a>
+
+1. ¿Qué lenguaje se utiliza para desarrollar aplicaciones nativas en Android?
+   - b) HTML
+   - a) Java
+   - d) Dart
+   - c) JavaScript  
+   <!-- **Respuesta correcta: a** -->
+
+2. ¿Qué archivo se considera el punto de entrada de una aplicación en React Native?
+   - b) App.js
+   - d) Home.js
+   - a) index.js
+   - c) Main.js  
+   <!-- **Respuesta correcta: a** -->
+
+3. ¿Cuál de las siguientes herramientas se utiliza para emular dispositivos Android o iOS?
+   - d) React Native CLI
+   - a) Node.js
+   - b) NPM
+   - c) Android Studio o Xcode  
+   <!-- **Respuesta correcta: c** -->
+
+4. ¿Cuál de los siguientes lenguajes se utiliza para crear aplicaciones híbridas?
+   - d) Swift
+   - a) Java
+   - b) Kotlin
+   - c) JavaScript  
+   <!-- **Respuesta correcta: c** -->
+
+5. ¿Qué hook de React se utiliza para manejar el estado de un componente funcional?
+   - d) useReducer
+   - c) useContext
+   - b) useState
+   - a) useEffect  
+   <!-- **Respuesta correcta: b** -->
+
+6. ¿Cuál framework fue adoptado por Facebook e Instagram para sus aplicaciones móviles?
+   - b) Ionic
+   - d) Xamarin
+   - a) React Native
+   - c) Flutter  
+   <!-- **Respuesta correcta: a** -->
+
+7. ¿Cuál de las siguientes NO es una herramienta necesaria para el desarrollo con React Native?
+   - d) Microsoft Office
+   - a) Node.js y NPM
+   - c) Android Studio o Xcode
+   - b) React Native CLI  
+   <!-- **Respuesta correcta: d** -->
+
+8. ¿Cuál es el comando para iniciar un nuevo proyecto de React Native?
+   - c) react-native create MiPrimeraApp
+   - d) node init react-native MiPrimeraApp
+   - a) npx react-native init MiPrimeraApp
+   - b) npm create react-native-app  
+   <!-- **Respuesta correcta: a** -->
+
+9. ¿Cuál es una ventaja de las aplicaciones multiplataforma?
+   - d) Necesidad de escribir código diferente para cada plataforma.
+   - a) Mayor rendimiento.
+   - c) Desarrollo ágil y más económico con una sola base de código.
+   - b) Acceso completo a las funcionalidades del hardware.  
+   <!-- **Respuesta correcta: c** -->
+
+10. ¿Cuál de las siguientes es una ventaja de usar aplicaciones nativas?
+    - c) Uso de tecnologías web.
+    - a) Mayor rendimiento y acceso completo a las funcionalidades del hardware.
+    - d) Menor rendimiento comparado con las aplicaciones nativas.
+    - b) Un solo código para ambas plataformas.  
+    <!-- **Respuesta correcta: a** -->
+
+11. ¿Qué comando se utiliza para instalar React Native CLI?
+    - a) npm install -g react-native-cli
+    - c) node install react-native-cli
+    - d) npm init react-native
+    - b) npm install -g react-cli  
+    <!-- **Respuesta correcta: a** -->
+
+12. ¿Cuál es una función de la biblioteca React Navigation en React Native?
+    - c) Navegación entre pantallas en aplicaciones móviles.
+    - d) Creación de componentes de interfaz de usuario.
+    - a) Manejo de estado en aplicaciones.
+    - b) Configuración de bases de datos locales.  
+    <!-- **Respuesta correcta: c** -->
+
+13. ¿Cuál es la principal desventaja de las aplicaciones híbridas?
+    - a) Mayor rendimiento.
+    - b) Acceso completo a las funcionalidades del hardware.
+    - d) Uso de tecnologías web.
+    - c) Menor rendimiento comparado con las aplicaciones nativas.  
+    <!-- **Respuesta correcta: c** -->
+
+14. ¿Qué archivo en un proyecto de React Native contiene la lógica de la interfaz de usuario?
+    - d) UI.js
+    - a) index.js
+    - b) App.js
+    - c) Main.js  
+    <!-- **Respuesta correcta: b** -->
+
+15. ¿Qué comando se utiliza para ejecutar un proyecto de React Native en un emulador de Android?
+    - a) npx react-native run-android
+    - b) npm start android
+    - d) node run-android
+    - c) react-native start-emulator  
+    <!-- **Respuesta correcta: a** -->
+
+---
+
+**Examen 2:**
+
+1. ¿Qué hook de React se utiliza para manejar el estado de un componente funcional?
+   - a) useEffect
+   - c) useContext
+   - d) useReducer
+   - b) useState  
+   <!-- **Respuesta correcta: b** -->
+
+2. ¿Cuál es una ventaja de las aplicaciones multiplataforma?
+   - a) Mayor rendimiento.
+   - c) Desarrollo ágil y más económico con una sola base de código.
+   - d) Necesidad de escribir código diferente para cada plataforma.
+   - b) Acceso completo a las funcionalidades del hardware.  
+   <!-- **Respuesta correcta: c** -->
+
+3. ¿Cuál framework fue adoptado por Facebook e Instagram para sus aplicaciones móviles?
+   - b) Ionic
+   - d) Xamarin
+   - c) Flutter
+   - a) React Native  
+   <!-- **Respuesta correcta: a** -->
+
+4. ¿Cuál de los siguientes lenguajes se utiliza para crear aplicaciones híbridas?
+   - a) Java
+   - b) Kotlin
+   - d) Swift
+   - c) JavaScript  
+   <!-- **Respuesta correcta: c** -->
+
+5. ¿Qué archivo se considera el punto de entrada de una aplicación en React Native?
+   - a) index.js
+   - c) Main.js
+   - d) Home.js
+   - b) App.js  
+   <!-- **Respuesta correcta: a** -->
+
+6. ¿Cuál es la principal desventaja de las aplicaciones híbridas?
+   - d) Uso de tecnologías web.
+   - a) Mayor rendimiento.
+   - b) Acceso completo a las funcionalidades del hardware.
+   - c) Menor rendimiento comparado con las aplicaciones nativas.  
+   <!-- **Respuesta correcta: c** -->
+
+7. ¿Cuál de las siguientes NO es una herramienta necesaria para el desarrollo con React Native?
+   - d) Microsoft Office
+   - c) Android Studio o Xcode
+   - b) React Native CLI
+   - a) Node.js y NPM  
+   <!-- **Respuesta correcta: d** -->
+
+8. ¿Cuál es una función de la biblioteca React Navigation en React Native?
+   - a) Manejo de estado en aplicaciones.
+   - d) Creación de componentes de interfaz de usuario.
+   - b) Configuración de bases de datos locales.
+   - c) Navegación entre pantallas en aplicaciones móviles.  
+   <!-- **Respuesta correcta: c** -->
+
+9. ¿Qué archivo en un proyecto de React Native contiene la lógica de la interfaz de usuario?
+   - a) index.js
+   - d) UI.js
+   - c) Main.js
+   - b) App.js  
+   <!-- **Respuesta correcta: b** -->
+
+10. ¿Qué lenguaje se utiliza para desarrollar aplicaciones nativas en Android?
+    - d) Dart
+    - b) HTML
+    - a) Java
+    - c) JavaScript  
+    <!-- **Respuesta correcta: a** -->
+
+11. ¿Cuál de las siguientes es una ventaja de usar aplicaciones nativas?
+    - a) Mayor rendimiento y acceso completo a las funcionalidades del hardware.
+    - d) Menor rendimiento comparado con las aplicaciones nativas.
+    - c) Uso de tecnologías web.
+    - b) Un solo código para ambas plataformas.  
+    <!-- **Respuesta correcta: a** -->
+
+12. ¿Qué comando se utiliza para instalar React Native CLI?
+    - d) npm init react-native
+    - a) npm install -g react-native-cli
+    - c) node install react-native-cli
+    - b) npm install -g react-cli  
+    <!-- **Respuesta correcta: a** -->
+
+13. ¿Cuál de las siguientes herramientas se utiliza para emular dispositivos Android o iOS?
+    - c) Android Studio o Xcode
+    - b) NPM
+    - a) Node.js
+    - d) React Native CLI  
+    <!-- **Respuesta correcta: c** -->
+
+14. ¿Cuál es el comando para iniciar un nuevo proyecto de React Native?
+    - a) npx react-native init MiPrimeraApp
+    - d) node init react-native MiPrimeraApp
+    - c) react-native create MiPrimeraApp
+    - b) npm create react-native-app  
+    <!-- **Respuesta correcta: a** -->
+
+15. ¿Qué comando se utiliza para ejecutar un proyecto de React Native en un emulador de Android?
+    - d) node run-android
+    - a) npx react-native run-android
+    - c) react-native start-emulator
+    - b) npm start android  
+    <!-- **Respuesta correcta: a** -->
+
+# 
 ## **Capítulo 7: Manejo de Formularios y Validaciones**
 
 Los formularios son esenciales para recolectar información de los usuarios. Usaremos `TextInput` para crear campos de formulario.
